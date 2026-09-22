@@ -1,0 +1,6 @@
+{
+  "name": "Customer Segmentation Analytics Dashboard",
+  "description": "Production-ready, reproducible customer segmentation platform featuring deterministic K-Means clustering, missing-value imputation, PCA high-dimensional visualization, traceable rule-based segment profiling, and evaluation metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
